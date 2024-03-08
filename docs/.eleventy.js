@@ -28,7 +28,7 @@ module.exports = function (eleventyConfig) {
     // Config for input/output/data/etc. directories
     dir: {
       input: ".",
-      output: "_site",
+      output: "_site/peggy",
     },
   };
 };
