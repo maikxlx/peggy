@@ -8,7 +8,7 @@ on:
         description: Which branch to deploy to peggyjs.org
         required: true
         options:
-          - stable
+          - main
 
 jobs:
   deploy:
